@@ -10,8 +10,8 @@ Olá, mundo! Eu sou o Marco Viana 👋
 
 <div>
   <a href="https://www.linkedin.com/in/marcoviana01/">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcoviana1610&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoviana1610&layout=compact&langs_count=16&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcoviana1610&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoviana1610&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
