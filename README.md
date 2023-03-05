@@ -1,11 +1,11 @@
 Olá, mundo! Eu sou o Marco Viana 👋
 
 
-- 🔭 Até o momento, estou familiarizado com Front-end
+- 🔭 Estou me familiarizando com desenvolvimento front-end
 - 🌱 Estudando Javascript, mySQL, c#
 - 💬 Contate-me no e-mail: marcoviana1610@gmail.com
 - 😄 Pronouns: ele/dele
-- 💰 OpenToWork: Em busca de uma oportunidade de Estágio
+💰 OpenToWork
 
 
 <div>
