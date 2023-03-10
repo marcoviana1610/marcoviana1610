@@ -1,7 +1,7 @@
 Olá, mundo! Eu sou o Marco Viana 👋
 
 
-- 🔭 Estou me familiarizando com desenvolvimento front-end
+- 🔭 Desenvolvedor front-end
 - 🌱 Estudando ReactJS
 - 💬 Contate-me no e-mail: marcoviana1610@gmail.com
 - 😄 Pronouns: ele/dele
