@@ -20,7 +20,7 @@ Olá, mundo! Eu sou o Marco Viana 👋
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Marco-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_ICOhN0zB.png">
-  <img align="right" alt="Marco-pic" height="150" style="border-radius:50px;" src="raw.githubusercontent.com/devicons/devicon/icons/react/react-original.svg">
+  <img align="right" alt="Marco-pic" height="150" style="border-radius:50px;" src="https://raw.cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ##
