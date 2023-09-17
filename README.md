@@ -1,9 +1,8 @@
 Olá, mundo! Eu sou o Marco Viana 👋
 
 
-- 🔭 Desenvolvedor front-end
+- 🔭 Desenvolvedor Full Stack
 - 💬 Contate-me no e-mail: marcoviana1610@gmail.com
-- 😄 Pronouns: ele/dele
 💰 OpenToWork
 
 
