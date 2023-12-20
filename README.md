@@ -1,8 +1,9 @@
-Olá, mundo! Eu sou o Marco Viana 👋
+Hello 👋
 
+I'm a developer from Brazil.
 
-- 🔭 Desenvolvedor Full Stack
-- 💬 Contate-me no e-mail: marcoviana1610@gmail.com
+- 🔭 Full Stack Engineer
+- 💬 Contact-me: marcoviana1610@gmail.com
 💰 OpenToWork
 
 
